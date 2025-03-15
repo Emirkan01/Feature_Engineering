@@ -17,5 +17,5 @@ This repository hosts a collection of projects focused on feature engineering an
 ### Cloning the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/Emirkan01/Feature_Engineering.git
+git clone https://github.com/Emirkan01/Feature_Engineering
 cd Feature_Engineering
